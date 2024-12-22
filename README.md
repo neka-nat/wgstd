@@ -6,4 +6,4 @@ Implementations of standard algorithms using WebGPU.
 
 - [x] sort
 - [ ] reduce
-- [ ] scan
+- [x] scan
